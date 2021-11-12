@@ -22,4 +22,4 @@ The included SimulIDE file includes a prebuilt circuit meant for use with this s
 ![Image of the ciruit](https://github.com/ctr305/ArduinoAlarm/blob/main/QW8rQnm3pL.png?raw=true)
 
 
-**_WARNING_: This program has not been tested with a phisical Arduino board and is only meant for use inside SimulIDE, use at your own risk.**
+**_WARNING_: This program has _NOT_ been tested with a phisical Arduino board and is only meant for use inside SimulIDE, use at your own risk.**
