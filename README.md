@@ -13,6 +13,10 @@ The components used in the SimulIDE project are the following:
 - 470 Ohm resistor
 - Relay
 
+The program depends on the following external libraries:
+- [LiquidCrystal](https://github.com/arduino-libraries/LiquidCrystal)
+- [Keypad](https://github.com/Chris--A/Keypad)
+
 The included SimulIDE file includes a prebuilt circuit meant for use with this sketch.
 
 ![Image of the ciruit](https://github.com/ctr305/ArduinoAlarm/blob/main/QW8rQnm3pL.png?raw=true)
